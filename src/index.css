@@ -47,10 +47,10 @@
     --cyan: #00d4ff;
     --cyan-dim: rgba(0, 212, 255, 0.12);
     --cyan-glow: rgba(0, 212, 255, 0.4);
-    --dark-1: #0a0e18;
-    --dark-2: #0f1420;
-    --dark-3: #151b2e;
-    --dark-card: #111827;
+    --dark-1: #141929;
+    --dark-2: #1a2035;
+    --dark-3: #1f2640;
+    --dark-card: #1c2236;
   }
 }
 
